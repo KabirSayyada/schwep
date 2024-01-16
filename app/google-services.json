@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022326032877",
+    "project_id": "schweprello",
+    "storage_bucket": "schweprello.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022326032877:android:e7184ad72dbbc4534bbfe4",
+        "android_client_info": {
+          "package_name": "com.example.sayyada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022326032877-7e3mc6tl1jm5mmcqsvlsauacjj1aen8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sayyada",
+            "certificate_hash": "5d5bcc607a91ffa2e90b2e54a26bae55d5a62e79"
+          }
+        },
+        {
+          "client_id": "1022326032877-f4gcnejtkom938ipgc2u63pidl6178i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNCH5MtuUccgEZwqs8mxdNgKWWnslAvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022326032877-f4gcnejtkom938ipgc2u63pidl6178i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
